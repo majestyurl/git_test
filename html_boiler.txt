@@ -10,3 +10,8 @@
 </body>
 
 </html>
+
+HACK:
+vscode has built in shortcut for populating an
+html boilerplate
+type "!" on first line then press "enter"
