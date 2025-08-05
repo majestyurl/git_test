@@ -17,3 +17,4 @@ touch - create file
 git add - adds files to staging area in git
 git commit -m ">insert message< (whatever we add)" - commits previously added argument w/ message 
 git push - push to github repo
+git push origin main - push to github when dealing with multiple branches
