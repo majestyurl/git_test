@@ -5,3 +5,15 @@ In the past, i got up to the html and css section before giving up
 so this time i am pushing myself to go harder, farther, and for longer. 
 My true goal is to at least get decent at Javascript and Python so i can add basic functionality 
 to most websites. 
+
+So far, this is the list of tools I have:
+open terminal 
+cmd + shift + p in vs code to install "code" shortcut
+
+cd - change directory
+ls - list (contents of directory)
+mkdir - make directory
+touch - create file 
+git add - adds files to staging area in git
+git commit -m ">insert message< (whatever we add)" - commits previously added argument w/ message 
+git push - push to github repo
