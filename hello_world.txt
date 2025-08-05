@@ -1,0 +1,7 @@
+Hello frens, 
+my name is majestyurl and today I am taking action on my github journey. 
+I am refreshing myself on Oden Projects fullstack course. 
+In the past, i got up to the html and css section before giving up
+so this time i am pushing myself to go harder, farther, and for longer. 
+My true goal is to at least get decent at Javascript and Python so i can add basic functionality 
+to most websites. 
